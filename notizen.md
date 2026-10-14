@@ -1,2 +1,2 @@
-Eintrag von Alice
+Alice findet Git cool
 
