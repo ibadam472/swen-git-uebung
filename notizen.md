@@ -1,2 +1,1 @@
-Bob findet Git mehh :/ 
-
+Alice und Bob finden dass Git mit etwas Übung mega cool ist!
