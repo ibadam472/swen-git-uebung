@@ -1,2 +1,2 @@
-Eintrag von Alice
+Bob findet Git mehh :/ 
 
